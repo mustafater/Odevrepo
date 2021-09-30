@@ -1,0 +1,4 @@
+Pascal case  yazım şekli  tüm kelimelerin ilk harf büyük harfle başlar. Camel case  yazım şeklinde ise kelimenin sadece ilk harfi küçüktür. Bu iki yazım biçimi yazılım  dillerine göre 
+degişiklik gösterebilir. Örnegin C# genel olarak pascal case kullanırken Javada camel case ile  yazılır. Bu kullara uymamız bize daha anlaşılır ve temiz kod yazmış oluruz. Bir proje 
+başladığımızda bize hangi kullara göre yazılması gerektiği söylenmelidir. Projeyi halka açacaksak topluluğ kabul görmüş kurallara göre yazmalıyız. Böylece kodlarımızı kolay anlaşılır ve
+bizde kod incelerken kolaylık yaşamış oluruz.
