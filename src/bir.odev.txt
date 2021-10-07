@@ -1,0 +1,8 @@
+https://www.mobilhanem.com/php-oop-dersleri-static-method-ve-static-degiskenler/
+https://qastack.info.tr/programming/13772827/difference-between-static-and-final
+https://csawesome.runestone.academy/runestone/books/published/csawesome/Unit5-Writing-Classes/topic-5-7-static-vars-methods.html
+https://medium.com/@mahmutsamigurmen/statik-metod-vs-statik-de%C4%9Fi%C5%9Fken-b9d502780531
+https://medium.com/@mahmutsamigurmen/map-ve-reduce-tan%C4%B1mlar%C4%B1-ae6ed229cf9d
+https://medium.com/@mahmutsamigurmen/call-by-reference-vs-call-by-value-dc3d5e9a17cb
+https://eddmann.com/posts/mapping-filtering-and-reducing-in-php/
+https://www.guru99.com/call-by-value-vs-call-by-reference.html
